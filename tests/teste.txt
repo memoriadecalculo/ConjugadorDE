@@ -1,0 +1,282 @@
+COMECO
+TABELA: 1
+LINHA: 1
+COLUNA: 1
+TEXTO: Infinitive:
+trinken
+Present participle:
+trinkend
+Past participle:
+getrunken
+
+COLUNA: 2
+TEXTO: 
+LINHA: 2
+COLUNA: 1
+TEXTO: Indicative
+
+COLUNA: 2
+TEXTO: Conjunctive I and II
+
+LINHA: 3
+COLUNA: 1
+TABELA: 2
+LINHA: 1
+COLUNA: 1
+TEXTO: Present
+ich
+trinke
+du
+trinkst
+er
+trinkt
+wir
+trinken
+ihr
+trinkt
+sie
+;
+Sie
+trinken
+
+COLUNA: 2
+TEXTO: Perfect
+ich
+habe getrunken
+du
+hast getrunken
+er
+hat getrunken
+wir
+haben getrunken
+ihr
+habt getrunken
+sie
+;
+Sie
+haben getrunken
+
+LINHA: 2
+COLUNA: 1
+TEXTO: Past
+ich
+trank
+du
+trankst
+er
+trank
+wir
+tranken
+ihr
+trankt
+sie
+;
+Sie
+tranken
+
+COLUNA: 2
+TEXTO: Pluperfect
+ich
+hatte getrunken
+du
+hattest getrunken
+er
+hatte getrunken
+wir
+hatten getrunken
+ihr
+hattet getrunken
+sie
+;
+Sie
+hatten getrunken
+
+LINHA: 3
+COLUNA: 1
+TEXTO: Future I
+ich
+werde trinken
+du
+wirst trinken
+er
+wird trinken
+wir
+werden trinken
+ihr
+werdet trinken
+sie
+;
+Sie
+werden trinken
+
+COLUNA: 2
+TEXTO: Future II
+ich
+werde getrunken haben
+du
+wirst getrunken haben
+er
+wird getrunken haben
+wir
+werden getrunken haben
+ihr
+werdet getrunken haben
+sie
+;
+Sie
+werden getrunken haben
+
+TEXTO: 
+COLUNA: 3
+TABELA: 3
+LINHA: 1
+COLUNA: 1
+TEXTO: Present
+ich
+trinke
+du
+trinkest
+er
+trinke
+wir
+trinken
+ihr
+trinket
+sie
+;
+Sie
+trinken
+
+COLUNA: 2
+TEXTO: Perfect
+ich
+habe getrunken
+du
+habest getrunken
+er
+habe getrunken
+wir
+haben getrunken
+ihr
+habet getrunken
+sie
+;
+Sie
+haben getrunken
+
+LINHA: 2
+COLUNA: 1
+TEXTO: Past
+ich
+tr
+nke
+du
+tr
+nkest
+er
+tr
+nke
+wir
+tr
+nken
+ihr
+tr
+nket
+sie
+;
+Sie
+tr
+nken
+
+COLUNA: 2
+TEXTO: Pluperfect
+ich
+h
+tte getrunken
+du
+h
+ttest getrunken
+er
+h
+tte getrunken
+wir
+h
+tten getrunken
+ihr
+h
+ttet getrunken
+sie
+;
+Sie
+h
+tten getrunken
+
+TEXTO: 
+LINHA: 3
+COLUNA: 1
+TEXTO: Conditional
+
+COLUNA: 2
+TEXTO: Imperative
+
+LINHA: 4
+COLUNA: 1
+TABELA: 4
+LINHA: 1
+COLUNA: 1
+TEXTO: Present
+ich
+w
+rde trinken
+du
+w
+rdest trinken
+er
+w
+rde trinken
+wir
+w
+rden trinken
+ihr
+w
+rdet trinken
+sie
+;
+Sie
+w
+rden trinken
+
+COLUNA: 2
+TEXTO: 
+COLUNA: 3
+TEXTO: Perfect
+ich
+w
+rde getrunken haben
+du
+w
+rdest getrunken haben
+er
+w
+rde getrunken haben
+wir
+w
+rden getrunken haben
+ihr
+w
+rdet getrunken haben
+sie
+;
+Sie
+w
+rden getrunken haben
+
+TEXTO: 
+COLUNA: 4
+TEXTO: du
+trinke
+;
+trink
+ihr
+trinkt
+

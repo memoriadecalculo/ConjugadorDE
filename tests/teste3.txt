@@ -1,0 +1,136 @@
+var _gaq = _gaq || []; _gaq.push(['_setAccount', 'UA-61929-7']);
+_gaq.push(['_trackPageview']); (function() { var ga =
+document.createElement('script'); ga.type = 'text/javascript'; ga.async
+= true; ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+: 'http://www') + '.google-analytics.com/ga.js'; var s =
+document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(ga, s); })(); (image)
+Toggle Menu[1] >> Navigation
+Homepage[2] Languages[3] Downloads[4] Store[5] More languages[6] Your
+continued donations keep Verbix running![7] (image)
+
+Languages: German : untersuchen
+
+Conjugate another German verb[8].
+
+Verb conjugation[9] in Windows:
+> <!--#include virtual="cache/includes/wfw.html" -->
+
+Infinitive: untersuchen
+Present participle: untersuchend
+Past participle: untersucht
+  Indicative Conjunctive I and II
+
+Present
+ich     untersuche
+du      untersuchst
+er      untersucht
+wir     untersuchen
+ihr     untersucht
+sie; Sie untersuchen
+
+Perfect
+ich     habe untersucht
+du      hast untersucht
+er      hat untersucht
+wir     haben untersucht
+ihr     habt untersucht
+sie; Sie haben untersucht
+
+Past
+ich     untersuchte
+du      untersuchtest
+er      untersuchte
+wir     untersuchten
+ihr     untersuchtet
+sie; Sie untersuchten
+
+Pluperfect
+ich     hatte untersucht
+du      hattest untersucht
+er      hatte untersucht
+wir     hatten untersucht
+ihr     hattet untersucht
+sie; Sie hatten untersucht
+
+Future I
+ich     werde untersuchen
+du      wirst untersuchen
+er      wird untersuchen
+wir     werden untersuchen
+ihr     werdet untersuchen
+sie; Sie werden untersuchen
+
+Future II
+ich     werde untersucht haben
+du      wirst untersucht haben
+er      wird untersucht haben
+wir     werden untersucht haben
+ihr     werdet untersucht haben
+sie; Sie werden untersucht haben
+
+Present
+ich     untersuche
+du      untersuchest
+er      untersuche
+wir     untersuchen
+ihr     untersuchet
+sie; Sie untersuchen
+
+Perfect
+ich     habe untersucht
+du      habest untersucht
+er      habe untersucht
+wir     haben untersucht
+ihr     habet untersucht
+sie; Sie haben untersucht
+
+Past
+ich     untersuchte
+du      untersuchtest
+er      untersuchte
+wir     untersuchten
+ihr     untersuchtet
+sie; Sie untersuchten
+
+Pluperfect
+ich     hätte untersucht
+du      hättest untersucht
+er      hätte untersucht
+wir     hätten untersucht
+ihr     hättet untersucht
+sie; Sie hätten untersucht
+Conditional Imperative
+
+Present
+ich     würde untersuchen
+du      würdest untersuchen
+er      würde untersuchen
+wir     würden untersuchen
+ihr     würdet untersuchen
+sie; Sie würden untersuchen
+
+Perfect
+ich     würde untersucht haben
+du      würdest untersucht haben
+er      würde untersucht haben
+wir     würden untersucht haben
+ihr     würdet untersucht haben
+sie; Sie würden untersucht haben
+
+du      untersuche
+ihr     untersucht
+
+Verbs conjugated like untersuchen
+
+aalen[10], abbalgen[11], abbauen[12], abbeeren[13], abbestellen[14],
+abbezahlen[15], abblocken[16], abblühen[17], abbohren[18], abbrauchen[19],
+abbrummen[20], abbrühen[21], abbuchen[22], abchecken[23], abdachen[24],
+abdampfen[25], abdanken[26], abdecken[27], abdienen[28], abdrehen[29],
+abdrucken[30], abdrängen[31], abdrücken[32], abducken[33], abdämmen[34],
+Only 25 verbs here? Read more![35]
+
+. Conjugations based on Verbix for Windows[36] (image)[37]Discover more
+verb related information in WikiVerb[38]. Also see the German[39]
+language page there. Content updated
+© Verbix 1995-2011. http://www.verbix.com[40] (image)Finished parsing

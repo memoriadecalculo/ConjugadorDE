@@ -1,0 +1,100 @@
+Infinitive: trinken
+Present participle: trinkend
+Past participle: getrunken
+  Indicative Conjunctive I and II
+Present
+ich     trinke
+du      trinkst
+er      trinkt
+wir     trinken
+ihr     trinkt
+sie; Sie trinken
+Perfect
+ich     habe getrunken
+du      hast getrunken
+er      hat getrunken
+wir     haben getrunken
+ihr     habt getrunken
+sie; Sie haben getrunken
+Past
+ich     trank
+du      trankst
+er      trank
+wir     tranken
+ihr     trankt
+sie; Sie tranken
+Pluperfect
+ich     hatte getrunken
+du      hattest getrunken
+er      hatte getrunken
+wir     hatten getrunken
+ihr     hattet getrunken
+sie; Sie hatten getrunken
+Future I
+ich     werde trinken
+du      wirst trinken
+er      wird trinken
+wir     werden trinken
+ihr     werdet trinken
+sie; Sie werden trinken
+
+Future II
+ich     werde getrunken haben
+du      wirst getrunken haben
+er      wird getrunken haben
+wir     werden getrunken haben
+ihr     werdet getrunken haben
+sie; Sie werden getrunken haben
+
+Present
+ich     trinke
+du      trinkest
+er      trinke
+wir     trinken
+ihr     trinket
+sie; Sie trinken
+
+Perfect
+ich     habe getrunken
+du      habest getrunken
+er      habe getrunken
+wir     haben getrunken
+ihr     habet getrunken
+sie; Sie haben getrunken
+
+Past
+ich     tränke
+du      tränkest
+er      tränke
+wir     tränken
+ihr     tränket
+sie; Sie tränken
+
+Pluperfect
+ich     hätte getrunken
+du      hättest getrunken
+er      hätte getrunken
+wir     hätten getrunken
+ihr     hättet getrunken
+sie; Sie hätten getrunken
+Conditional Imperative
+
+Present
+ich     würde trinken
+du      würdest trinken
+er      würde trinken
+wir     würden trinken
+ihr     würdet trinken
+sie; Sie würden trinken
+
+Perfect
+ich     würde getrunken haben
+du      würdest getrunken haben
+er      würde getrunken haben
+wir     würden getrunken haben
+ihr     würdet getrunken haben
+sie; Sie würden getrunken haben
+
+du      trinke; trink
+ihr     trinkt
+Finished parsing
