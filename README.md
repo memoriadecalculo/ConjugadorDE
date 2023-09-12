@@ -1,4 +1,4 @@
-# Projeto: [ConjugadorDE](github.com/memoriadecalculo/ConjugadorDE)
+# Projeto: [ConjugadorDE](http://github.com/memoriadecalculo/ConjugadorDE)
 
 Copyright (c) 2011 Memória de Cálculo <memoriadcalculo@gmail.com>
 
@@ -13,7 +13,7 @@ Houve também uma tentativa de função para https://funcoeszz.net/
 
 ================================================================================
 
-# Project: [ConjugadorDE](github.com/memoriadecalculo/ConjugadorDE)
+# Project: [ConjugadorDE](http://github.com/memoriadecalculo/ConjugadorDE)
 
 Copyright (c) 2011 Memória de Cálculo <memoriadcalculo@gmail.com>
 
