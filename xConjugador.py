@@ -2,7 +2,7 @@
 # coding: utf-8
 '''
 @project: ConjugadorDE <github.com/memoriadecalculo/ConjugadorDE>
-@copyright: Memória de Cálculo (c) 2023 <memoriadcalculo@gmail.com>
+@copyright: Memória de Cálculo (c) 2011 <memoriadcalculo@gmail.com>
 '''
 
 import sys

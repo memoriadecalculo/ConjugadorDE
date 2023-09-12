@@ -1,6 +1,6 @@
-# Projeto: ConjugadorDE
+# Projeto: [ConjugadorDE](github.com/memoriadecalculo/ConjugadorDE)
 
-Copyright (c) 2023 Memória de Cálculo <memoriadcalculo@gmail.com>
+Copyright (c) 2011 Memória de Cálculo <memoriadcalculo@gmail.com>
 
 ## Conjugador de Verbos em Alemão
 
@@ -13,9 +13,9 @@ Houve também uma tentativa de função para https://funcoeszz.net/
 
 ================================================================================
 
-# Project: ConjugadorDE
+# Project: [ConjugadorDE](github.com/memoriadecalculo/ConjugadorDE)
 
-Copyright (c) 2023 Memória de Cálculo <memoriadcalculo@gmail.com>
+Copyright (c) 2011 Memória de Cálculo <memoriadcalculo@gmail.com>
 
 ## German Verbs Conjugator
 
