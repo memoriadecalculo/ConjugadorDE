@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # coding: utf-8
 '''
-@author: Memória de Cálculo <memoriadcalculo@gmail.com>
+@project: ConjugadorDE <github.com/memoriadecalculo/ConjugadorDE>
+@copyright: Memória de Cálculo (c) 2023 <memoriadcalculo@gmail.com>
 '''
 
 import sys
@@ -26,8 +27,8 @@ if (len(sys.argv) == 3) and linguas.has_key(sys.argv[1]):
     lingua = sys.argv[1]
     verbo = sys.argv[2]
 else:
-    print "Uso:",sys.argv[0], "língua verbo"; sys.exit(1)
-    
+    print("Uso:",sys.argv[0], "língua verbo", sys.exit(1))
+
 # Pegando o conteúdo da página:
 urltoda = url[0] + str(linguas[lingua][0]) + url[1] + str(linguas[lingua][0] + 100) + url[2] + verbo
 #arqHTMLcod = urllib.urlopen(urltoda)
@@ -220,10 +221,10 @@ for linha in parser.output():
         
         if nLinha <= 3:
             tempo, verbo = linha.split(':')
-            print 'SUMARIO: ' + tempo + ' | ' + verbo
+            print('SUMARIO: ' + tempo + ' | ' + verbo)
             
         if nLinha == 4:
             valores = linha.split()
 #            modo1 = valores[0]
 #            modo2 = valores[1]
-            print valores
+            print(valores)
